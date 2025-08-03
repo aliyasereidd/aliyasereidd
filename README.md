@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I’m Ali Yaser, a student at the Faculty of Computers and Information, Mansoura University, majoring in Computer Science.<br>I have worked as a Front-End Developer and also gained experience in Back-End development through various projects.<br>I’ve worked with Flutter, and I have experience in designing desktop systems using Windows Forms.<br>I’m always striving for continuous improvement and development.</p>
+<p align="left">I’m Ali Eid, a student at the Faculty of Computers and Information, Mansoura University, majoring in Computer Science.<br>I have worked as a Front-End Developer and also gained experience in Back-End development through various projects.<br>I’ve worked with Flutter, and I have experience in designing desktop systems using Windows Forms.<br>I’m always striving for continuous improvement and development.</p>
 
 ###
 
